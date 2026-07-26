@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+twikit
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+sqlalchemy
+scipy
